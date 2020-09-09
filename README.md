@@ -6,7 +6,7 @@ Participants have 7 days to develop an autonomous bot able to play a game.
 The contest took place between April 14 - 21, 2020.
 
 ## Result
-Reached Top 7% among 358 participants. See [leaderboard](https://www.codingame.com/leaderboards/contests/42-coding-challenge/global), my username is tkuumola.
+Reached Top 7% among 358 participants. See my bot battles and [leaderboard](https://www.codingame.com/leaderboards/contests/42-coding-challenge/global), my username is tkuumola.
 
 ## Task
 Quidditch-like game. 
