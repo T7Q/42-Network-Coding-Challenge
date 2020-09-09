@@ -2,7 +2,7 @@
 [42 Network Coding Challenge](https://www.codingame.com/hackathon/42-coding-challenge) is a multiplayer AI programming competition organized by 42 Network. 
 
 Participants have 7 days to develop an autonomous bot able to play a game.
-The contest took place from April 14, 12PM UTC to April 21, 2020 12PM UTC.
+The contest took place from April 14 - 21, 2020.
 
 ## Result
 Reached Top 7% among 358 participants. See [leaderboard](https://www.codingame.com/leaderboards/contests/42-coding-challenge/global), my username tkuumola.
