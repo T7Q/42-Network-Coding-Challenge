@@ -7,7 +7,8 @@ The contest took place from April 14 - 21, 2020.
 ## Result
 Reached Top 7% among 358 participants. See [leaderboard](https://www.codingame.com/leaderboards/contests/42-coding-challenge/global), my username tkuumola.
 
-## Game goal
+## Task
+Quidditch-like game. 
 Score more points than your opponent.
 Two players face off in a rectangular map.
 Each player controls 2 wizards. To score a point, a Snaffle (a mix between a Snitch and a Quaffle) must go through the opponent's goal.
